@@ -1,0 +1,21 @@
+# ESPHome build artifacts
+.esphome/
+.pioenvs/
+.piolibdeps/
+
+# Secrets — never commit
+secrets.yaml
+
+# Local backups
+components.bak/
+*.bak
+
+# Planning / personal notes
+from_perplex*.md
+CLAUDE.md
+CooperHunter.md
+
+# OS
+.DS_Store
+.vscode/
+.idea/
