@@ -14,6 +14,8 @@ components.bak/
 from_perplex*.md
 CLAUDE.md
 CooperHunter.md
+.claude/
+components/cooper_hunter_ac/__pycache__/
 
 # OS
 .DS_Store
